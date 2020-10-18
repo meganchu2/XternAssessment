@@ -1,0 +1,11 @@
+Please see the other files in the repository for my code and the plots from my analysis
+
+My four conclusions:
+
+  1. North Indian, Fast Food, and Chinese are the three most ordered cuisines.
+
+  2. There are significant differences in ratings depending on cooking time based on the kruskal-wallis test. There is not a consistent trend, but the orders with 120 min cooking times had significantly lower ratings.
+
+  3. There are significant differences in ratings depending on average cost based on the kruskal-wallis test. There seems to be a consistent trend of higher ratings for higher average cost. Thus, a pearson’s correlation test was performed, and these results also verified that this correlation was significant.
+
+  4. Contrary to my expectations, orders containing any one of the three most popular cuisines (North Indian, Fast Food, and Chinese) had significantly lower ratings (using the kruskal-wallis test) than orders that did not include these cuisines.
